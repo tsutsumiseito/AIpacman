@@ -7,6 +7,7 @@ import random
 from collections import deque
 
 #変更点
+#kimura変更
 
 # ******************** 画像の読込 ********************
 img_road = pygame.image.load("image/road.png")
