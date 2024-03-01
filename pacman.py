@@ -6,6 +6,8 @@ import json
 import random
 from collections import deque
 
+#変更点
+
 # ******************** 画像の読込 ********************
 img_road = pygame.image.load("image/road.png")
 img_wall = pygame.image.load("image/wall.png")
